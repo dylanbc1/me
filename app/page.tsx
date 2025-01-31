@@ -104,9 +104,9 @@ export default function Home() {
             <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center text-gray-800 dark:text-white">About Me</h2>
             <div className="max-w-3xl mx-auto">
               <p className="text-base md:text-lg text-gray-700 dark:text-gray-300 mb-6">
-                I'm Dylan Bermudez Cardona, a passionate and innovative software developer with expertise in web
+                I&apos;m Dylan Bermudez Cardona, a passionate and innovative software developer with expertise in web
                 development, DevOps, artificial intelligence, machine learning, and data science. My approach combines technical
-                proficiency with creative problem-solving, always pushing the boundaries of what's possible in software
+                proficiency with creative problem-solving, always pushing the boundaries of what&apos;s possible in software
                 development.
               </p>
               <p className="text-base md:text-lg text-gray-700 dark:text-gray-300">
